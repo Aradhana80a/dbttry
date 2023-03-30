@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: Analytics
+    description: "name, we can give anything"
+    database: Analytics
+    schema: sampletest1
+    tables:
+      - name: customers
